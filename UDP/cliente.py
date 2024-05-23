@@ -2,7 +2,7 @@ import socket
 
 # Configuración del servidor
 SERVER_HOST = '127.0.0.1'
-SERVER_PORT = 12345
+SERVER_PORT = 12346
 
 while True:
     # Crear un socket UDP
